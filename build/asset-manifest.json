@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bai5/build/static/css/main.47b468cb.css",
-    "main.js": "/bai5/build/static/js/main.aec3c507.js",
-    "static/js/453.2368cfea.chunk.js": "/bai5/build/static/js/453.2368cfea.chunk.js",
-    "index.html": "/bai5/build/index.html",
-    "main.47b468cb.css.map": "/bai5/build/static/css/main.47b468cb.css.map",
-    "main.aec3c507.js.map": "/bai5/build/static/js/main.aec3c507.js.map",
-    "453.2368cfea.chunk.js.map": "/bai5/build/static/js/453.2368cfea.chunk.js.map"
+    "main.css": "/bai5/static/css/main.47b468cb.css",
+    "main.js": "/bai5/static/js/main.2fd3393c.js",
+    "static/js/453.2368cfea.chunk.js": "/bai5/static/js/453.2368cfea.chunk.js",
+    "index.html": "/bai5/index.html",
+    "main.47b468cb.css.map": "/bai5/static/css/main.47b468cb.css.map",
+    "main.2fd3393c.js.map": "/bai5/static/js/main.2fd3393c.js.map",
+    "453.2368cfea.chunk.js.map": "/bai5/static/js/453.2368cfea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47b468cb.css",
-    "static/js/main.aec3c507.js"
+    "static/js/main.2fd3393c.js"
   ]
 }
