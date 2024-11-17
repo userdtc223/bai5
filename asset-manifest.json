@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bai5/build/static/css/main.47b468cb.css",
+    "main.js": "/bai5/build/static/js/main.4c20da1c.js",
+    "static/js/453.5e7ce0a0.chunk.js": "/bai5/build/static/js/453.5e7ce0a0.chunk.js",
+    "index.html": "/bai5/build/index.html",
+    "main.47b468cb.css.map": "/bai5/build/static/css/main.47b468cb.css.map",
+    "main.4c20da1c.js.map": "/bai5/build/static/js/main.4c20da1c.js.map",
+    "453.5e7ce0a0.chunk.js.map": "/bai5/build/static/js/453.5e7ce0a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b468cb.css",
+    "static/js/main.4c20da1c.js"
+  ]
+}
