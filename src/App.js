@@ -62,7 +62,7 @@ function App() {
     <div className="App">
       <h1 className="title">NJW5</h1>
       <button className="toggle-sidebar" onClick={toggleSidebar}>
-        {isSidebarOpen ? 'Close' : 'Open'} Quiz List
+        {isSidebarOpen ? 'Close' : 'Open'} List
       </button>
       <div className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
         <h2>Chọn bài test</h2>
